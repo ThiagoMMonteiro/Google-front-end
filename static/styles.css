@@ -1,0 +1,41 @@
+div.form-group {
+  padding: 20px;
+  margin: 260px auto;
+  text-align: center;
+}
+
+div.links {
+  text-align: right;
+  font-size: small;
+  padding-right: 35px;
+  padding-top: 20px;
+}
+
+.links a {
+  color: black;
+}
+
+.form-group button {
+  background-color: #eeeeee;
+  color: #686868;
+  margin: 5px;
+  margin-top: 30px;
+  font-size: 15px;
+  width: 140px;
+}
+
+.form-group button:hover {
+  color: black;
+  border: 1px solid #c4c4c4;
+}
+
+input.form-control {
+  border-radius: 70px;
+  height: 45px;
+}
+
+.form-control:hover {
+  box-shadow: 0px 1px 5px #999;
+}
+
+/*# sourceMappingURL=styles.css.map */
