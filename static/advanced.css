@@ -1,0 +1,37 @@
+#advanced {
+  color: #d40000;
+  margin-left: 45px;
+  margin-top: 42px;
+  margin-bottom: 45px;
+  font-size: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.advanced {
+  font-family: Arial, sans-serif;
+}
+
+div.form-group {
+  margin: 15px 30px auto;
+}
+
+div.links {
+  text-align: right;
+  font-size: small;
+  padding-right: 35px;
+  padding-top: 20px;
+}
+
+.links a {
+  color: black;
+}
+
+.form-group {
+  font-size: 13px;
+}
+
+div.advanced_button {
+  margin-left: 925px;
+}
+
+/*# sourceMappingURL=advanced.css.map */
