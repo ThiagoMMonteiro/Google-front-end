@@ -25,6 +25,9 @@ div.links {
 .links a {
   color: black;
 }
+.links a:hover {
+  color: gray;
+}
 
 .form-group {
   font-size: 13px;
